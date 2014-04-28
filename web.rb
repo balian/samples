@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "Hello, world Carlos Adrian Lopez Ibarra"
+  "Hello, world <b>Carlos Adrian Lopez Ibarra</b>"
 end
